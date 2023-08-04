@@ -36,7 +36,7 @@
 }
 @media (max-width:500px) {
     .header{
-        height: 100px;
+        height: 90px;
         background-color: black;
         
     }
@@ -48,16 +48,10 @@
         margin-left: 550px;
     }
 }
-@media (min-width: 450px) {
-    .header div div img{
-        margin-bottom: 45px;
-    }
-    .top{
-        margin-bottom: 45px;
-    }
+@media (min-width: 450px){
     .nav-font{
-        font-size: 12px;
-    }
-   
+    font-size: 12px;
 }
+}
+
 
