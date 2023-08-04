@@ -1,0 +1,15 @@
+.header{
+    height: 90px;
+    background-color: black;
+}
+.header div div img{
+    padding-top: 10px  ;
+}
+.top{
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+}
+.col{
+    align-items: center;
+}
